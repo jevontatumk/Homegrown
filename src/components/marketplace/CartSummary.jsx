@@ -69,5 +69,3 @@ export function CartSummary({ listings, cart, onRemove, onCheckout }) {
     </div>
   )
 }
-
-

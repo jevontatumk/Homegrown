@@ -32,5 +32,3 @@ export function computeTotals(items) {
   const total = subtotal + customerMarkup + deliveryFee
   return { subtotal, customerMarkup, deliveryFee, total }
 }
-
-

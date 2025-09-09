@@ -60,5 +60,3 @@ export function LearnVideos({ videos, setVideos }) {
     </main>
   )
 }
-
-

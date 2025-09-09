@@ -69,5 +69,3 @@ export function Number({ label, value, onChange, min = 0, max = 999999, step = 1
     </label>
   )
 }
-
-

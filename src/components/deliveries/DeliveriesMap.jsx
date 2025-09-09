@@ -307,5 +307,3 @@ export function DeliveriesMap({ orders, showOrderPopup, onClosePopup, pickups = 
     </main>
   )
 }
-
-

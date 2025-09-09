@@ -12,5 +12,3 @@ REM Start the development server
 npm run dev
 
 pause
-
-

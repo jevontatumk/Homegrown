@@ -6,5 +6,3 @@ export const farms = [
   "Trussville Terrace",
   "Jones Family Farm",
 ]
-
-

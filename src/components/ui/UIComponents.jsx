@@ -52,5 +52,3 @@ export function RowKV({ k, v }) {
     </div>
   )
 }
-
-

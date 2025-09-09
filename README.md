@@ -4,7 +4,7 @@ A React-based marketplace connecting local farmers with urban consumers, featuri
 
 ## Project Structure
 
-```
+\`\`\`
 src/
 ├── components/
 │   ├── auth/
@@ -32,7 +32,7 @@ src/
 ├── App.jsx                          # Main application component
 ├── main.jsx                         # React entry point
 └── index.css                        # Global styles
-```
+\`\`\`
 
 ## Features
 
@@ -67,14 +67,14 @@ src/
 ## Getting Started
 
 1. Install dependencies:
-   ```bash
+   \`\`\`bash
    npm install
-   ```
+   \`\`\`
 
 2. Start development server:
-   ```bash
+   \`\`\`bash
    npm run dev
-   ```
+   \`\`\`
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
@@ -121,5 +121,3 @@ Main application component managing:
 - MapLibre assets loaded dynamically
 - Responsive design with mobile-first approach
 - Green and white color scheme throughout
-
-

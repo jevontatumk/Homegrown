@@ -9,5 +9,3 @@ export function seedWithRandomPricesAndFarms() {
     return { ...l, pricePerUnit, farm }
   })
 }
-
-

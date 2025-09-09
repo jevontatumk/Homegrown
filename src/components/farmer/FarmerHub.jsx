@@ -224,5 +224,3 @@ export function FarmerHub({ auth, setAuth, farmerTab, setFarmerTab, listings, se
     </main>
   )
 }
-
-

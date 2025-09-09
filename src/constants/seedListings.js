@@ -60,5 +60,3 @@ export const seedListingsBase = [
     status: "available",
   },
 ]
-
-

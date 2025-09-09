@@ -67,5 +67,3 @@ export function Marketplace({ listings, onAdd, cart, onRemove, onCheckout }) {
     </main>
   )
 }
-
-
